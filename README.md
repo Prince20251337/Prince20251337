@@ -91,18 +91,3 @@ where I can apply my skills, learn from experienced engineers, and contribute to
 </p>
 
 <hr/>
-
-<h2>📊 GitHub Stats</h2>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Prince20251337&theme=dark&hide_border=false"/>
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Prince20251337&theme=dark&hide_border=false"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince20251337&theme=dark&hide_border=false&layout=compact"/>
-</p>
-
-<hr/>
-
-<p>
-<img src="https://visitcount.itsvg.in/api?id=Prince20251337&icon=0&color=0"/>
-</p>
